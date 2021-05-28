@@ -6,6 +6,12 @@ Hello scheduler!  Astrobites schedules posts by assigning each author to write a
 
 Use the `schedulegen.py` script to convert a text schedule into a personal information manager (PIM; e.g. google calander) friendly iCal format.
 
+## Authors
+
+Original author @cfaesi
+
+Modified by @michaelzevin, @jkcalahan, @nesanders
+
 ## Usage
 
 First, edit the variables in the `INPUT PARAMETERS` block.  Primarily, you will need to point `infile` to your input schedule file.
