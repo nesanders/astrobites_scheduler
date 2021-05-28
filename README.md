@@ -8,9 +8,9 @@ Use the `schedulegen.py` script to convert a text schedule into a personal infor
 
 ## Authors
 
-Original author @cfaesi
+Original author [@cfaesi](https://github.com/cfaesi)
 
-Modified by @michaelzevin, @jkcalahan, @nesanders
+Modified by [@michaelzevin](https://github.com/michaelzevin), [@jkcalahan](https://github.com/jkcalahan), [@nesanders](https://github.com/nesanders)
 
 ## Usage
 
